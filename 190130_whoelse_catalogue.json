@@ -1,0 +1,914 @@
+  [
+    {
+      "type": "OnDemand",
+      "category": "ApartmentSharing",
+      "name": "airbnb",
+      "website": "https://airbnb.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdD9YN_KVLhvJCa5hha2MuNOoAENQBGxbuCUjdbGjLSJSRBGvZJ9wDAfM"
+    },
+    {
+      "type": "OnDemand",
+      "category": "ApartmentSharing",
+      "name": "craigslist",
+      "website": "http://craigslist.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHcnVcEdjS9cnQvfTwKGTnJ6Izbjidva0rZCPEgZmHWD0upnjp1RtZxY"
+    },
+    {
+      "type": "OnDemand",
+      "category": "ApartmentSharing",
+      "name": "Fe-Wo-direkt",
+      "website": "https://www.fewo-direkt.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPioSKdGzpiV31Y1mQwDrMve5QMMdchbyDMANsyLnM8hiyXV67MUx-7Do"
+    },
+    {
+      "type": "OnDemand",
+      "category": "ApartmentSharing",
+      "name": "SpotAHome",
+      "website": "https://www.spotahome.com/berlin/for-rent:rooms",
+      "logo": "https://irecommend.ru/sites/default/files/product-images/1136826/lCGnXeP03BDKXuf0ciCPA.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Cleaner",
+      "name": "helpling",
+      "website": "https://www.helpling.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYJZME9JN6dLJ_OWJJSVREuvcAxplrnQ5YArNSOa7I0hQRbe_BD2Z7n4"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Cleaner",
+      "name": "book a tiger",
+      "website": "https://www.bookatiger.com",
+      "logo": "https://schoesslers.com/wp-content/uploads/2016/02/logo_jpg.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Cleaner",
+      "name": "happymaids",
+      "website": "https://www.happymaids.de/",
+      "logo": "https://www.happymaids.de/happymaids-wGlobal/wGlobal/layout/images/happymaids-logo.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Mailing",
+      "name": "ups",
+      "website": "https://www.ups.com",
+      "logo": "#N/A"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Mailing",
+      "name": "dhl",
+      "website": "http://www.dhl.com",
+      "logo": "#N/A"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Mailing",
+      "name": "hermes",
+      "website": "https://www.hermes.com",
+      "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/2/29/Hermes_Logistik_Gruppe_2008.svg/2000px-Hermes_Logistik_Gruppe_2008.svg.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Mailing",
+      "name": "usps",
+      "website": "https://www.usps.com/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYaYPA412lc8kAQoMoraNgmmX8ebo4zqqKX60Wt7dJjsXqlcBzRQWeD63dGQ"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Job",
+      "name": "LinkedIn",
+      "website": "https://www.linkedin.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Job",
+      "name": "XING",
+      "website": "https://www.xing.com/",
+      "logo": "#N/A"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Job",
+      "name": "indeed",
+      "website": "https://indeed.com/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJk-QUyVBd5gBKY6k84_ZWicfg6sa_NjPC4Toj-agBb2tkDppI9S-5O5n"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Job",
+      "name": "stepstone",
+      "website": "https://www.stepstone.com/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsRDSZFRiDvPi-4KqEJi-IdFGoeEN7V92wb1hx8Pet54REZGPPYSY6jg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Job",
+      "name": "Agentur für Arbeit",
+      "website": "https://jobboerse.arbeitsagentur.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUx9M3pi_eM8abhJSQD31z5x_JvDBweQWqZqSOyv0Mv_6kX3hKPimdoi88"
+    },
+    {
+      "type": "OnDemand",
+      "category": "RideSharing",
+      "name": "uber",
+      "website": "https://www.uber.com",
+      "logo": "#N/A"
+    },
+    {
+      "type": "OnDemand",
+      "category": "RideSharing",
+      "name": "lyft",
+      "website": "https://www.lyft.com/",
+      "logo": "#N/A"
+    },
+    {
+      "type": "OnDemand",
+      "category": "RideSharing",
+      "name": "BlaBla car",
+      "website": "https://www.blablacar.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Ny8DOixLzaKXOWkxAyplqQKxcG-3GXUhgQO4-VylHh_5Ny_ZBW6zYRU"
+    },
+    {
+      "type": "OnDemand",
+      "category": "EScooterSharing",
+      "name": "bird",
+      "website": "https://www.bird.co/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc18nMz1qnmCiQ_q6f624XbmLo2y24XwSXBxV-KlGooEFJEmcPGOHWgPfG"
+    },
+    {
+      "type": "OnDemand",
+      "category": "EScooterSharing",
+      "name": "lime",
+      "website": "https://www.li.me/",
+      "logo": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/2f/98/2e/2f982ee1-fc30-c1b1-94c9-b1deba02e304/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.jpeg/246x0w.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "EScooterSharing",
+      "name": "Tier",
+      "website": "https://www.tier.app",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqV1WaahZDeS1trfPna5EywiOIWO33bF49lrpMR5BeLvA9zOTpyltdrNq"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Taxi",
+      "name": "uber",
+      "website": "https://www.uber.com",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Uber_logo.svg/2000px-Uber_logo.svg.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Taxi",
+      "name": "mytaxi",
+      "website": "https://de.mytaxi.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Mytaxi_logo.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Taxi",
+      "name": "mydriver",
+      "website": "https://www.mydriver.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Mydriver.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "CarSharing",
+      "name": "car2go",
+      "website": "https://www.car2go.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYyEdemuMspODUikKOTFRf0Xph5nhLxcYN5Op6o905XjJBuRbENXOlDxl"
+    },
+    {
+      "type": "OnDemand",
+      "category": "CarSharing",
+      "name": "drivenow",
+      "website": "https://www.drive-now.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYD6NWR7hqgINAEC43iDOVX12JEqr6GpStExM6qwI-MOsaQGm4Th1lgMo"
+    },
+    {
+      "type": "OnDemand",
+      "category": "CarSharing",
+      "name": "flinkster",
+      "website": "https://www.flinkster.de",
+      "logo": "https://www.carsharing-erlangen.de/wp-content/uploads/2015/05/flinkster-logo.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "ScooterSharing",
+      "name": "coup",
+      "website": "https://joincoup.com",
+      "logo": "https://coup-assets.s3.amazonaws.com/2017/03/15/14/24/48/110fedf3-7042-4c1b-ad07-1b5347fc4e9c/COUP-logo-darkblue-transparent.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "ScooterSharing",
+      "name": "emmy",
+      "website": "https://emmy-sharing.de/",
+      "logo": "https://pbs.twimg.com/profile_images/863084120980819969/e9UfIT5S_400x400.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "PizzaDelivery",
+      "name": "lieferando",
+      "website": "https://www.lieferando.de/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Delivery_Hero_food_delivery_logo.svg/1200px-Delivery_Hero_food_delivery_logo.svg.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "PizzaDelivery",
+      "name": "pizza.de",
+      "website": "https://pizza.de/",
+      "logo": "https://www.globaldots.com/wordpress/wp-content/uploads/2012/12/pizza-de-logo.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "PizzaDelivery",
+      "name": "lieferheld",
+      "website": "https://www.lieferheld.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MvyQb6ykX3W2cEYcSCoXd0GcybSgVANuWlRCaZHPvlUTsBBKmgBeoBLQ"
+    },
+    {
+      "type": "OnDemand",
+      "category": "FoodDelivery",
+      "name": "uber eats",
+      "website": "https://www.ubereats.com/en-US/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSag-J4xTrB2skBSVfCnzpKvVvHitUXE5Jj7uwB2fMA9gyMOMpqEO8B9QbZ"
+    },
+    {
+      "type": "OnDemand",
+      "category": "FoodDelivery",
+      "name": "deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3ztUfeTyZ1gqlEvS9_kjp6z7tC7IscQ8GY5PTrRW_JWiUzsKuaKTZ52_"
+    },
+    {
+      "type": "OnDemand",
+      "category": "FoodDelivery",
+      "name": "foodora",
+      "website": "https://www.foodora.de",
+      "logo": "https://www.foodora.com/wp-content/uploads/2015/07/foodora_press_logo.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "FoodDelivery",
+      "name": "grubhub",
+      "website": "https://www.grubhub.com/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWquAVM8OXh99trlqnQqtavks-wjXhjIvWZApjdlgUnx8BgqDBY6c_aek"
+    },
+    {
+      "type": "OnDemand",
+      "category": "TableReservation",
+      "name": "opentable",
+      "website": "https://www.opentable.com/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ahF7Khu5DX-l0OtJSISk7B3IooXSEeejTWtcGDKwb2EyLAqdICFZWk0"
+    },
+    {
+      "type": "OnDemand",
+      "category": "TableReservation",
+      "name": "easytablebook",
+      "website": "https://easytablebooking.de/",
+      "logo": "https://easytablebooking.de/assets/img/logo.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Flight",
+      "name": "skyscanner",
+      "website": "https://www.skyscanner.de/?",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtw9LkTMFiEzpo9bHBdNbu6yY4OtF2pOhRuFf2R2pHFtMSPaG3e9hfA"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Flight",
+      "name": "opodo",
+      "website": "https://www.opodo.de/",
+      "logo": "https://seeklogo.net/wp-content/uploads/2012/10/opodo-logo-vector.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Flight",
+      "name": "momondo",
+      "website": "https://www.momondo.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDJ8Fn0IvIbUNE-ykTiOw4sLa_219y3gYgg8BhT3VRyFmooSC54JFX8w"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Flight",
+      "name": "kayak",
+      "website": "https://www.kayak.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqiwKvxJusc1KeQNP2hxxuhAbL-EAPTopcnqETyWQxo7FNVgraNUGVks"
+    },
+    {},
+    {},
+    {
+      "type": "Community",
+      "category": "Date",
+      "name": "tinder",
+      "website": "https://tinder.com/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpsYlXSqBMf9gMJZBhk0Ax5B6aGhX77NV-Xcbn4IN7diK58sqe6fFhEI"
+    },
+    {
+      "type": "Community",
+      "category": "Date",
+      "name": "elitepartner",
+      "website": "https://www.elitepartner.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuCW7Av00Cp-acXTZsgRs7jllLPE0EUcufCrbNc6B0ZqXIDFrgVe6Ud3A"
+    },
+    {
+      "type": "Community",
+      "category": "Date",
+      "name": "parship",
+      "website": "https://www.parship.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_PRyJ4ow4KGnl1PTnNQk8-Xe6hGp1vpSkk9HdoZ0OlUsnTqrbF1Gd3yNJ"
+    },
+    {
+      "type": "Community",
+      "category": "Event",
+      "name": "facebook",
+      "website": "https://www.facebook.com/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/2000px-F_icon.svg.png"
+    },
+    {
+      "type": "Community",
+      "category": "Event",
+      "name": "eventim",
+      "website": "https://www.eventim.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkU1KbNWS7RdMGnsyaPQd5ihEYNqAiNrdT8vzLygauxA73rVghdn9Q-xT"
+    },
+    {
+      "type": "Community",
+      "category": "Event",
+      "name": "eventbrite",
+      "website": "https://www.eventbrite.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3NkpmjuzfKVr7IPx4n01MJAuDfNSU49trfw2ynPX-TJMrirIAVb4IC3c"
+    },
+    {
+      "type": "Community",
+      "category": "Event",
+      "name": "urbanite",
+      "website": "https://www.urbanite.net/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmb9cYtJJMD9YsG8ng7MeC3oo9-Mea3Sk_3ERpHoaQ3sacQG1vJLIEIo"
+    },
+    {
+      "type": "Community",
+      "category": "Event",
+      "name": "meetup",
+      "website": "https://www.meetup.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4n58ldwDw1CO0SnjkrbQmfrISRR6YQVOetVcywcGGbH6duoeIo6apafi4"
+    },
+    {
+      "type": "Community",
+      "category": "Concert",
+      "name": "facebook",
+      "website": "https://www.facebook.com/",
+      "logo": "https://theme.zdassets.com/theme_assets/2041222/c3ea09fd3c3bd646257ea97a6083bf5f45807354.png"
+    },
+    {
+      "type": "Community",
+      "category": "Concert",
+      "name": "eventim",
+      "website": "https://www.eventim.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkU1KbNWS7RdMGnsyaPQd5ihEYNqAiNrdT8vzLygauxA73rVghdn9Q-xT"
+    },
+    {
+      "type": "Community",
+      "category": "Concert",
+      "name": "songkick",
+      "website": "https://www.songkick.com/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDukFQ3kjC2fFaFyi3Azz_Awu0IlHIvsq-GH0_e74NdoFOIANGxuGJiDS"
+    },
+    {
+      "type": "Community",
+      "category": "Concert",
+      "name": "viagogo",
+      "website": "https://www.viagogo.com",
+      "logo": "https://cdn.viagogo.net/img/assets/logo/viagogo_logo_fb.png"
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+      "type": "iot",
+      "category": "Fridge",
+      "name": "iot_fridge",
+      "website": "lookup_home_fridge",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivz67kmNXPO2PzgK35Cqiy40kM-ND0nPOaTqHI76OHZD92et9zO9wemM"
+    },
+    {
+      "type": "iot",
+      "category": "DoorAccess",
+      "name": "iot_door_access",
+      "website": "lookup_home_door",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjxgN8rhuuDxD5bLcZg-B4Mkew4dgABDfSmCgxNBIe4yCXDEi6KFpPWBL"
+    },
+    {
+      "type": "iot",
+      "category": "Car",
+      "name": "iot_car",
+      "website": "lookup_home_car",
+      "logo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiIiL6045XgAhUMYVAKHWj5CJsQjRx6BAgBEAU&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMercedes_Benz_Logo_11.jpg&psig=AOvVaw2p5ARfyAE9rqKxeXAyViA-&ust=1548947008166194"
+    },
+    {
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqgEvSLbyz1uui67COKq99hIcUY9XuyC2C3fgwmsVmPmvhBKryLWxBhxUXuA"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Babysitter",
+      "name": "Betreut",
+      "website": "https://www.betreut.de",
+      "logo": "https://www.betreut.de/wp-content/uploads/sites/2/2014/02/01_Betreut_DE_2_72dpi-01.png"
+    },
+    {
+      "type": "Info",
+      "category": "BankAccount",
+      "name": "N26",
+      "website": "https://n26.com/de-de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2kvcNwbYwJ1kkW16B6G33DJWIg6T4Y2wVHLq9SLzP9a0i9aKm8LdznI"
+    },
+    {
+      "type": "Info",
+      "category": "Banks",
+      "name": "N26",
+      "website": "https://n26.com/de-de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2kvcNwbYwJ1kkW16B6G33DJWIg6T4Y2wVHLq9SLzP9a0i9aKm8LdznI"
+    },
+    {
+      "type": "Brand",
+      "category": "BayernMünchen",
+      "name": "FC Bayern",
+      "website": "https://fcbayern.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCa8zxlkIvOYVzOTBwKRqGoXdQI5O6PIKZ1-VLSZOucXfKSWBQP_UMebd"
+    },
+    {
+      "type": "Info",
+      "category": "Berlin",
+      "name": "Berlin",
+      "website": "https://www.berlin.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEGo8GmjwqDjDu3cMOa7_yLcBMQi0a0mY6ag5VyAOZXIj4MfH0VLenLM"
+    },
+    {
+      "type": "Brand",
+      "category": "Bosch",
+      "name": "Bosch",
+      "website": "https://www.bosch.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7hRjTOfq89de3dsXyZW_6t3Ui-QX6I7ZgQhFeEmaUvC0SCI08_erjNgK"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Breakfast",
+      "name": "deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Deliveroo2016.png/revision/latest?cb=20160906193328"
+    },
+    {
+      "type": "Info",
+      "category": "Broker",
+      "name": "Charles Schwab",
+      "website": "https://www.schwab.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjG1acPHd_gcRJOYOr7W3w4_S94eTXY9O-RoTD27mwURNqjTOfZqjHFinDPg"
+    },
+    {
+      "type": "Info",
+      "category": "Bundesliga",
+      "name": "Bundesliga",
+      "website": "https://www.bundesliga.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJ5_gNdV8z4L9l17GlrjE167R94JXJ27t8dqaXJl3XqZeNdv3VSjMTys7"
+    },
+    {
+      "type": "Brand",
+      "category": "BVB",
+      "name": "BVB",
+      "website": "https://www.bvb.de",
+      "logo": "#N/A"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Car",
+      "name": "Sixt",
+      "website": "https://www.sixt.com",
+      "logo": "#N/A"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Catering",
+      "name": "Lemoncat",
+      "website": "https://www.lemoncat.de/de/",
+      "logo": "https://northzone.com/wp-content/uploads/2017/04/LEMONCAT-logo.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Chaffeur",
+      "name": "UBER",
+      "website": "https://www.uber.com/de/de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzD1x9purPKxtP94dvK46QGdmRU_6_KYdd3NjKuPqLrVO6l7lipIxafRg"
+    },
+    {
+      "type": "Info",
+      "category": "Coding",
+      "name": "Iron Hack",
+      "website": "https://www.ironhack.com",
+      "logo": "https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/4017/s300/logo-ironhack-blue.png"
+    },
+    {
+      "type": "Info",
+      "category": "Condome",
+      "name": "BillyBoy",
+      "website": "http://www.billy-boy.com",
+      "logo": "http://esports-marketing-blog.com/wp-content/uploads/Billy-Boy-Becomes-Official-Partner-of-Unicorns-of-Love.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Couchsurfing",
+      "name": "Couchsurfing",
+      "website": "https://www.couchsurfing.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDLcp8qFGjpKAF7Z1_jJbebVllHJWqu6yBJHT0R7Kf06ViLZvBI8fow1s"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Coworking",
+      "name": "WeWork",
+      "website": "https://www.wework.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD34_cDIbXHte_P1nMH-VabNK5Iy0bEaU3XrQHYGAqL6f5sndDQYe4Pl9P"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Crossfit",
+      "name": "CrossFit",
+      "website": "https://www.crossfit.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5CAUPfsEMyBqK4DUyNoic2nTDqFEJf8TMqCWCZWDo4XrFKa2c2cQtjmU"
+    },
+    {
+      "type": "Brand",
+      "category": "Deliveroo",
+      "name": "Deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3ztUfeTyZ1gqlEvS9_kjp6z7tC7IscQ8GY5PTrRW_JWiUzsKuaKTZ52_"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Dentist",
+      "name": "ZocDoc",
+      "website": "https://www.zocdoc.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXCO_IGw-Hh-asZo0hOba57KEq4-WHYizNG6EnShcBMN5IkKx61QC988"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Dinner",
+      "name": "Deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3ztUfeTyZ1gqlEvS9_kjp6z7tC7IscQ8GY5PTrRW_JWiUzsKuaKTZ52_"
+    },
+    {
+      "type": "Info",
+      "category": "Discount",
+      "name": "MyDealz",
+      "website": "https://www.mydealz.de",
+      "logo": "https://assets.mydealz.de/assets/img/logo-dark_f7894.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Doctor",
+      "name": "ZocDoc",
+      "website": "https://www.zocdoc.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXCO_IGw-Hh-asZo0hOba57KEq4-WHYizNG6EnShcBMN5IkKx61QC988"
+    },
+    {
+      "type": "OnDemand",
+      "category": "DogSitting",
+      "name": "WagWalking",
+      "website": "https://wagwalking.com",
+      "logo": "https://knoji.com/images/logo/wagwalkingcom.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "DogWalking",
+      "name": "WagWalking",
+      "website": "https://wagwalking.com",
+      "logo": "https://knoji.com/images/logo/wagwalkingcom.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Flatmate",
+      "name": "WG Gesucht",
+      "website": "https://www.wg-gesucht.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1z2Or13l37Vctj8mODK9-eDH_aonrVsTOlDynexD9BQTvkFOnje-FMk5"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Flatshare",
+      "name": "WG Gesucht",
+      "website": "https://www.wg-gesucht.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1z2Or13l37Vctj8mODK9-eDH_aonrVsTOlDynexD9BQTvkFOnje-FMk5"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Flatshare",
+      "name": "WG Gesucht",
+      "website": "https://www.wg-gesucht.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1z2Or13l37Vctj8mODK9-eDH_aonrVsTOlDynexD9BQTvkFOnje-FMk5"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Foodsharing",
+      "name": "Foodsharing",
+      "website": "https://foodsharing.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMstUUS2dn9xkoAb3fIIlLg8ERFb0MMehKXjsA4Fusu3O5dD2xRl1v_mFQ"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Gay",
+      "name": "Grinder",
+      "website": "https://www.grindr.com",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/GRINDR_Logo_Yellow.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Gym",
+      "name": "Gymondo",
+      "website": "https://www.gymondo.de/#/",
+      "logo": "https://gymondo.vitafy.de/skin/frontend/vitafy/partner/images/gymondo_logo_black.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Haircut",
+      "name": "Treatwell",
+      "website": "https://www.treatwell.com",
+      "logo": "https://vignette.wikia.nocookie.net/logopedia/images/4/49/Treatwell-logo-2016.png/revision/latest?cb=20160126074621"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Hitchhiking",
+      "name": "BlaBlaCar",
+      "website": "https://www.blablacar.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Ny8DOixLzaKXOWkxAyplqQKxcG-3GXUhgQO4-VylHh_5Ny_ZBW6zYRU"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Hostel",
+      "name": "Hostel Bookers",
+      "website": "https://www.hostelbookers.com",
+      "logo": "http://arikibackpackers.com/wp-content/uploads/2016/11/Hostelbookers.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Hotel",
+      "name": "Trivago",
+      "website": "https://www.trivago.com/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJMsHdfMrWzZUpILG7wWs9v3bASsyMRbpLOCo8OuXeONfA9GGm4ttF40"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Insurance",
+      "name": "Check24",
+      "website": "https://www.check24.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfqU232x6Oo0xRCJmVADZF23TBZQ-pW3C2-JyyHrSTVza8ecyT-mJ8Q"
+    },
+    {
+      "type": "Info",
+      "category": "Journalist",
+      "name": "Welt",
+      "website": "https://www.welt.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu4rJ_eRrbe97hw5S70HuxgVP3JnX9Y1Tge0ekd009JhPPfDEdUjQvkHt"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Kebab",
+      "name": "Deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3ztUfeTyZ1gqlEvS9_kjp6z7tC7IscQ8GY5PTrRW_JWiUzsKuaKTZ52_"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Landlord",
+      "name": "Immobilien Scout",
+      "website": "https://www.immobilienscout24.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBd3svBfCbGkma0qMQKduHjh8xH2NsXtGz7XmwMDHGoGGE_mr2QCeqA50t"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Laundry",
+      "name": "ZipJet",
+      "website": "https://www.zipjet.de",
+      "logo": "https://assets2.store2be.com/assets/clients/zipjet_logo_round-dfdbc092c356ef953b17fe82346e6b55dcb85f94327c22057ee92c41e8237891.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Lawyer",
+      "name": "Legal Match",
+      "website": "https://www.legalmatch.com",
+      "logo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjWtNnWqZXgAhXfSxUIHZD7DFEQjRx6BAgBEAU&url=http%3A%2F%2Fseekvectorlogo.com%2Flegalmatch-vector-logo-svg%2F&psig=AOvVaw1jlxjkLtWV3a8bv0KtrcbB&ust=1548931510962944"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Limosuine",
+      "name": "UBER",
+      "website": "https://www.uber.com/de/de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzD1x9purPKxtP94dvK46QGdmRU_6_KYdd3NjKuPqLrVO6l7lipIxafRg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Loan",
+      "name": "Aux Money",
+      "website": "www.auxmoney.com/‎",
+      "logo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjVgdrnqZXgAhX7SBUIHbdqDroQjRx6BAgBEAU&url=https%3A%2F%2Fwww.auxmoney.com%2Fpresse%2Flogos-von-auxmoney%2F&psig=AOvVaw0EwvSSzVylRwN_6z0CWSSS&ust=1548931548664786"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Locksmith",
+      "name": "Key Me",
+      "website": "https://www.key.me",
+      "logo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiFrIn2qZXgAhXfSxUIHZD7DFEQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fblog.key.me%252F%26psig%3DAOvVaw2Sg0pthz1Lub9NrF2kv7rG%26ust%3D1548931567080964&psig=AOvVaw2Sg0pthz1Lub9NrF2kv7rG&ust=1548931567080964"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Lunch",
+      "name": "Deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3ztUfeTyZ1gqlEvS9_kjp6z7tC7IscQ8GY5PTrRW_JWiUzsKuaKTZ52_"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Massage",
+      "name": "Treatwell",
+      "website": "https://www.treatwell.com",
+      "logo": "https://vignette.wikia.nocookie.net/logopedia/images/4/49/Treatwell-logo-2016.png/revision/latest?cb=20160126074621"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Mechnaic",
+      "name": "Your mechanic",
+      "website": "https://www.yourmechanic.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTVWOF71w1tqefPFV3k2cXVIWqrelsPqwD3N9ho7cILpWgakifd9rwv-t"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Mercedes",
+      "name": "Sixt",
+      "website": "https://www.sixt.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBAa5l7feOW-i1ngZb-F8hnb-cosXfh2Ylg0OJmU7EBrCOZJAGvhgjvW5lGA"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Movers",
+      "name": "Movinga",
+      "website": "https://www.movinga.com/",
+      "logo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiawZmBq5XgAhXJSxUIHXyzAoUQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.movinga.de%252F%26psig%3DAOvVaw1JpM5Q8zjPwrhEm9oO5gcm%26ust%3D1548931693745532&psig=AOvVaw1JpM5Q8zjPwrhEm9oO5gcm&ust=1548931693745532"
+    },
+    {
+      "type": "Info",
+      "category": "News",
+      "name": "Welt",
+      "website": "https://www.welt.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu4rJ_eRrbe97hw5S70HuxgVP3JnX9Y1Tge0ekd009JhPPfDEdUjQvkHt"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Noodles",
+      "name": "Deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3ztUfeTyZ1gqlEvS9_kjp6z7tC7IscQ8GY5PTrRW_JWiUzsKuaKTZ52_"
+    },
+    {
+      "type": "OnDemand",
+      "category": "ParkingSpace",
+      "name": "Park Now",
+      "website": "https://park-now.com",
+      "logo": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjAooCLq5XgAhUCXRUIHZ3iDNwQjRx6BAgBEAU&url=https%3A%2F%2Fparknowgroup.com%2F&psig=AOvVaw2j1x0lZfBG4JeEfwvlUELY&ust=1548931889754124"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Pasta",
+      "name": "Deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3ztUfeTyZ1gqlEvS9_kjp6z7tC7IscQ8GY5PTrRW_JWiUzsKuaKTZ52_"
+    },
+    {
+      "type": "Info",
+      "category": "PhoneRepair",
+      "name": "iFixit",
+      "website": "https://www.ifixit.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSbj7_jKSb3eNWxtNm4IF_2rpnlmFDlCAc6nJqfju87Xrb87RtCbPmJE"
+    },
+    {
+      "type": "Info",
+      "category": "Poker",
+      "name": "PokerStars",
+      "website": "https://www.pokerstars.eu/de/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PokerStars_logo.svg/2000px-PokerStars_logo.svg.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Porsche",
+      "name": "Sixt",
+      "website": "https://www.sixt.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWW5f-Hihqw5stQqyoi3G0Zqq49kNXIZj4DvddgZJiZtyEaV6R17Wnanic"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Sauna",
+      "name": "Treatwell",
+      "website": "https://www.treatwell.com",
+      "logo": "https://vignette.wikia.nocookie.net/logopedia/images/4/49/Treatwell-logo-2016.png/revision/latest?cb=20160126074621"
+    },
+    {
+      "type": "Info",
+      "category": "Savings",
+      "name": "Deutsche Bank",
+      "website": "https://www.deutsche-bank.de/pk.html",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Deutsche_Bank-Logo.svg/2000px-Deutsche_Bank-Logo.svg.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Sex",
+      "name": "ElitePartner",
+      "website": "https://www.elitepartner.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuCW7Av00Cp-acXTZsgRs7jllLPE0EUcufCrbNc6B0ZqXIDFrgVe6Ud3A"
+    },
+    {
+      "type": "Info",
+      "category": "Sightseeing",
+      "name": "Get Your Guide",
+      "website": "https://www.getyourguide.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgRNgmFQqlCfWcN9OmC52Ca4Bze6H6mwRbhX1RhRlIWwo9BWIJi3c-pk"
+    },
+    {
+      "type": "Info",
+      "category": "Soccer",
+      "name": "FC Bayern",
+      "website": "https://fcbayern.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCa8zxlkIvOYVzOTBwKRqGoXdQI5O6PIKZ1-VLSZOucXfKSWBQP_UMebd"
+    },
+    {
+      "type": "Info",
+      "category": "SocialHelp",
+      "name": "Charitas",
+      "website": "https://www.tafel.de",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3eDC1vb6Gfi-QwnnI79SV25w0V3VtrBbUnjC94dN6ycuXgxOeQRe5Gcb"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Spaghetti",
+      "name": "Deliveroo",
+      "website": "https://deliveroo.de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3ztUfeTyZ1gqlEvS9_kjp6z7tC7IscQ8GY5PTrRW_JWiUzsKuaKTZ52_"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Supermarket",
+      "name": "REWE",
+      "website": "https://shop.rewe.de",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_REWE.svg/2000px-Logo_REWE.svg.png"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Technican",
+      "name": "Thumbstack",
+      "website": "https://www.thumbtack.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnixFFp08J_ur04xsyQ0RMuK95-vGY6-LBN58w3R91uGttYT-lhuOMEYwy"
+    },
+    {
+      "type": "Brand",
+      "category": "UBER",
+      "name": "UBER",
+      "website": "https://www.uber.com/de/de/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzD1x9purPKxtP94dvK46QGdmRU_6_KYdd3NjKuPqLrVO6l7lipIxafRg"
+    },
+    {
+      "type": "Info",
+      "category": "Volkswagen",
+      "name": "Moia",
+      "website": "https://www.moia.io",
+      "logo": "https://assets.t3n.sc/news/wp-content/uploads/2017/06/Moia-620x266.jpg"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Warehouse",
+      "name": "Sharehouse",
+      "website": "https://www.sharehouse.eu/en/",
+      "logo": "https://www.sharehouse.eu/assets/sharehouse-logo-c58864d01b39e57ef80c52cfa2d09a8a025031c73f9a435e1850924dbb273d1e.png"
+    },
+    {
+      "type": "Info",
+      "category": "Weather",
+      "name": "The Weather Channel",
+      "website": "https://weather.com/de-DE/",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8sZFA9hwboloOUNa2ehceHw35c3tYuihgxCnbY62wWoudbqFAE6uECmS"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Yacht",
+      "name": "Yachtico",
+      "website": "https://www.yachtico.com",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nErA4mmbW5Wd8c0dLgrjO5AZbTvsUIh5EAxpeuuDNsZKpQxFuWuVlWc"
+    },
+    {
+      "type": "OnDemand",
+      "category": "Yoga",
+      "name": "Urban Sports Club",
+      "website": "https://urbansportsclub.com",
+      "logo": "https://theme.zdassets.com/theme_assets/654565/5ceb304c27ca33e177d0df07a8c5e535b16122c8.png"
+    }
+  ]
